@@ -1,0 +1,6 @@
+Logic\Account.class
+Presentation\LogTesting.class
+Logic\CurrentAccount.class
+Logic\Log.class
+Domain\Client.class
+Logic\SavingAccount.class
